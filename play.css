@@ -22,10 +22,10 @@ h1 {
 .f {
 color: aqua;
 background-color: rgb(54, 91, 124);
-border: dashed;
+border: solid;
 }
 .e {
 color: aqua;
 background-color: rgb(54, 91, 124);
-border: dashed;
+border: solid;
 }
