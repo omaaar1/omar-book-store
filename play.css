@@ -8,6 +8,14 @@ h1 {
     border: solid;
     background-color: rgb(54, 91, 124);
 }
+div {width: 150px;
+  height: 75px;
+  background-color: #FF5722;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin-left: -75px;
+  margin-top: -37.5px;}
 .ab {
     width: fit-content;
 }
